@@ -1,6 +1,6 @@
 | Platform    | Contest       | Ranking | Links of interest |
 |-------------|---------------|---------|-------------------|
-| Code4rena   | badger        | N.A     | [link](https://code4rena.com/audits/2024-06-ebtc-zap-router#top) |
+| Code4rena   | badger        | 4     | [link](https://code4rena.com/audits/2024-06-ebtc-zap-router#top) |
 | cantina     | euler-v2      | 4       | [link](https://cantina.xyz/competitions/41306bb9-2bb8-4da6-95c3-66b85e11639f/leaderboard) |
 | cantina     | aavev3.1      | 13      | [link](https://cantina.xyz/competitions/5ffcedec-7e2e-4717-a3e4-e9041ca541c2/leaderboard) |
 | Code4rena   | size.credit   | 12      | [link](https://code4rena.com/audits/2024-06-size#top) |
