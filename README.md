@@ -11,7 +11,7 @@
 ---
 
 ## ✅ Audits (A2-security as a Team & Alix40 solo)
-
+NOTE: we are only shwoing high and medium severity issues found and not any QA Findings
 | Platform       | Contest              | Ranking     | Findings     | Links                                                                                          | Project Type              | Participant     |
 |----------------|----------------------|-------------|--------------|------------------------------------------------------------------------------------------------|---------------------------|-----------------|
 | Sherlock       | Extra Finance        | **1st** 🥇  | **1H, 2M**   | N/A                                                                                            | Yield/Leverage            | A2-security     |
@@ -20,6 +20,7 @@
 | Immunefi       | Folks-Finance #3     | **2nd** 🥈  | **1H**       | N/A                                                                                            | Staking/Algorand          | A2-security     |
 | Immunefi       | Folks-Finance        | **2nd** 🥈  | **4H, 3M**   | N/A                                                                                            | Lending                   | A2-security     |
 | Code4rena      | Dyad                 | **2nd** 🥈  | **5H, 4M**   | [Leaderboard](https://code4rena.com/audits/2024-04-dyad#top)                                   | Lending                   | Alix40          |
+| Code4rena      | Flex Perpetuals                 | **3rd** 🥉  | **1M**   | [Leaderboard](https://code4rena.com/audits/2024-04-dyad#top)                                   | Perpetuals                   | Alix40          |
 | Code4rena      | Badger               | **4th**     | **1M**       | [Leaderboard](https://code4rena.com/audits/2024-06-ebtc-zap-router#top)                        | Lending                   | Alix40          |
 | Cantina        | Euler-v2             | **4th**     | N/A          | [Leaderboard](https://cantina.xyz/competitions/41306bb9-2bb8-4da6-95c3-66b85e11639f/leaderboard)| Lending                   | Alix40          |
 | Cantina        | Curvance             | **6th**     | **7H, 7M**   | [Leaderboard](https://cantina.xyz/competitions/ac757733-81a4-43c7-8f49-17c5b135cdff/leaderboard)| Lending, Cross-Chain      | Alix40          |
