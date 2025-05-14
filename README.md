@@ -4,9 +4,8 @@
 
 - **High Severity Issues Found**: 55+
 - **Medium Severity Issues Found**: 120+
-- **Top 1 Finishes**: 5
-- **Top 5 Finishes**: 15
-- **Top 10 Finishes**: 25
+- **Top 1 Finishes**: 3
+
 
 ---
 
