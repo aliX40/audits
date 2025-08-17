@@ -2,16 +2,16 @@
 
 ## 📊 Portfolio Summary
 
-- **High Severity Issues Found**: 55+
-- **Medium Severity Issues Found**: 120+
-- **Top 1 Finishes**: 3
+- **High Severity Issues Found**: 80+
+- **Medium Severity Issues Found**: 150+
+- **Top 3 Finishes**: 7+
 
 
 ---
 
-## ✅ Audits (A2-security as a Team & Alix40 solo)
+## ✅ Audit Contests 
 NOTE: we are only shwoing high and medium severity issues found and not any QA Findings
-| Platform       | Contest              | Ranking     | Findings     | Links                                                                                          | Project Type              | Participant     |
+| Platform       | Contest              | Ranking     | Findings     | Links                                                                                          | Project Type              | Account Name     |
 |----------------|----------------------|-------------|--------------|------------------------------------------------------------------------------------------------|---------------------------|-----------------|
 | Sherlock       | Extra Finance        | **1st** 🥇  | **1H, 2M**   | N/A                                                                                            | Yield/Leverage            | A2-security     |
 | Sherlock       | ZeroLend One         | **1st** 🥇  | **11H, 11M** | [Leaderboard](https://audits.sherlock.xyz/contests/466/leaderboard)                            | Lending                   | A2-security     |
